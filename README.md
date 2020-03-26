@@ -1,0 +1,2 @@
+# Reversi_Observer_mode
+使用开发者设计模式的黑白棋游戏
